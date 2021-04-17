@@ -2,7 +2,18 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        'pinkRelap': '#C86DD7',
+        'purpleRelap':'#3023AE',
+        'relap':'#333',
+        'pinkSoft':'#fbf0fd'
+      },
+      fontFamily:{
+        'poppins':['Poppins'],
+        'source':['Source Sans Pro']
+      }
+    },
   },
   variants: {
     extend: {},
