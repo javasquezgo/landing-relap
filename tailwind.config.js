@@ -7,7 +7,8 @@ module.exports = {
         'pinkRelap': '#C86DD7',
         'purpleRelap':'#3023AE',
         'relap':'#333',
-        'pinkSoft':'#fbf0fd'
+        'pinkSoft':'#fbf0fd',
+        'grayBorder': '#DADADA'
       },
       fontFamily:{
         'poppins':['Poppins'],

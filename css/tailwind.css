@@ -9,4 +9,12 @@
     box-shadow: 16px 22px 48px 0px rgba(0,0,0,0.48);
 }
 
+.altura-tarjeta{
+    height: 416px
+}
+
+.altura-last-section{
+    height: 448px;
+}
+
 @tailwind utilities;
